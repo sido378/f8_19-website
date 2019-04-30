@@ -31,10 +31,10 @@ const Prepare = ({ intl }) => (
             {intl.formatMessage({ id: "prepare_2_1" })}
             <ul>
               <li>
-                <li>{intl.formatMessage({ id: "prepare_1_2_1" })}</li>
-                <li>{intl.formatMessage({ id: "prepare_1_2_2" })}</li>
-                <li>{intl.formatMessage({ id: "prepare_1_2_3" })}</li>
-                <li>{intl.formatMessage({ id: "prepare_1_2_4" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_2_1_1" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_2_1_2" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_2_1_3" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_2_1_4" })}</li>
               </li>
             </ul>
           </li>
