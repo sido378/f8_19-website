@@ -1,0 +1,11 @@
+{
+  "heading": "Erreurs de facture courantes",
+  "1": "Les commissions, redevances ou autres frais ne sont pas inclus dans la facture car on pense qu'ils ne sont pas passibles de droits",
+  "2": "Un exportateur qui achète des marchandises pour les exporter aux États-Unis indique le coût des marchandises dans la facture au lieu du prix livré.",
+  "3": "Un fabricant étranger fabrique des marchandises avec des matériaux fournis par l’importateur américain et facture le prix effectivement facturé au fabricant au lieu d’inclure la valeur des matériaux fournis par l’importateur.",
+  "4": "Un fabricant étranger envoie les produits de remplacement à l’importateur aux États-Unis et les facture au prix net au lieu d’indiquer le prix complet moins l’indemnité pour les produits défectueux précédemment expédiés et renvoyés.",
+  "5": "Un exportateur qui vend les marchandises à un prix de catalogue, moins un rabais, mais les facture au prix net en omettant d’indiquer le rabais.",
+  "6": "Un exportateur vend des marchandises à un prix rendu mais les facture à un prix FOB en omettant les frais ultérieurs.",
+  "7": "Un expéditeur étranger indique sur la facture que l'importateur est l'acheteur, alors qu'il est un agent ou un tiers recevant une commission pour la transaction.",
+  "8":"Fournir des descriptions vagues, pas de descriptions (uniquement des références), des descriptions codées ou regrouper plusieurs éléments en un seul lorsqu'ils sont différents." 
+}
