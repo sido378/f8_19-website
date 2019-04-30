@@ -7,20 +7,17 @@
   "dependencies": {
     "gatsby": "^2.3.32",
     "gatsby-image": "^2.0.40",
+    "gatsby-plugin-intl": "^0.1.7",
     "gatsby-plugin-manifest": "^2.0.29",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.35",
     "gatsby-source-filesystem": "^2.0.32",
     "gatsby-transformer-sharp": "^2.1.18",
-    "i18next": "^15.1.0",
-    "i18next-browser-languagedetector": "^3.0.1",
-    "i18next-xhr-backend": "^2.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.0",
-    "react-i18next": "^10.9.0"
+    "react-helmet": "^5.2.0"
   },
   "devDependencies": {
     "prettier": "^1.17.0"

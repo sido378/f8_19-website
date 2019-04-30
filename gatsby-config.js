@@ -1,10 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
+    title: `Export2US`,
     description: `Find out everything you need to know about exporting to the US.`,
-    author: `@f8_19`,
+    author: `@export2US`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-intl`,
+      options: {
+        // language JSON resource path
+        path: `${__dirname}/src/locales`,
+        // supported language
+        languages: [`en`, `fr`],
+        // language file path
+        defaultLanguage: `en`,
+        redirect: true,
+      },
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
