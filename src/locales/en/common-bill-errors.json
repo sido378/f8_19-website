@@ -1,0 +1,12 @@
+{
+  "heading": "Common Bill Errors",
+  "description" : "Some of the most common inaccuracies to be avoided are: ",
+  "1": "Commissions, royalties or other charges are not included in the invoice because it is believed these are non-dutiable.",
+  "2": "An exporter who purchases goods to export to the U.S., shows the cost of the goods in the invoice instead of the delivered price.",
+  "3": " A foreign manufacturer produces goods with materials supplied by the U.S. importer, and invoices at the actual cost to the manufacturer instead of including the value of the materials supplied by the importer.",
+  "4": " A foreign manufacturer ships replacement goods to the importer in the U.S. and invoices the goods at the net price instead of showing the full price less the allowance for defective goods previously shipped and returned. ",
+  "5": "An exporter who sells the goods at a list price, less a discount, but invoices them at the net price omitting to indicate the discount. ",
+  "6": "An exporter sells goods at a delivered price but invoices them at an FOB price omitting the subsequent charges.",
+  "7": "A foreign shipper indicates in the invoice that the importer is the purchaser, whereas (s)he is and agent or third party receiving a commission for the transaction.",
+  "8":"Providing vague descriptions, no descriptions (only part numbers), coded descriptions or grouping several items together as one when they are different." 
+}

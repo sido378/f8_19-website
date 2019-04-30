@@ -1,8 +1,16 @@
 {
-  "heading": "Conclure l’affaire",
-  "1": "Recevoir une lettre de demande",
-  "2": "Offre (prix, délai de livraison, quantité, conditions de paiement, etc.)",
-  "3": "Facture Pro Forma aussi appelée Facture Commerciale",
-  "4": "Commande d'achat et de vente.",
-  "5": "Contrat ou contrat de fourniture (document juridique garantissant la livraison, la qualité, etc.)"
+  "heading": "Préparez-vous à exporter",
+  "1": "Identifier les marchés",
+  "1_1": "Salons professionnels",
+  "1_2": "Missions commerciales",
+  "1_2_1": "Contacter le ministère du commerce, conseiller économique",
+  "2": "Conditions à remplir",
+  "2_1": "Assurez-vous que vous avez",
+  "2_1_1": "bon enregistrement",
+  "2_1_2": "relevé des termes",
+  "2_1_3": "Liste des prix à l'exportation (en anglais et en USD)",
+  "2_1_4": "Brochures et échantillons (si nécessaire)",
+  "3": "Reach out to an experienced agent if you need help, see : ",
+  "4": "Envisagez d’avoir une présence sur le Web et une plate-forme de vente internationale."
+
 }
