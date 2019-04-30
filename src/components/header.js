@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
@@ -16,16 +16,16 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h1 style={{ margin: 0 }}>
-        <Link
+      <h1 style={{ margin: 0, color: "white" }}>
+        {/* <Link
           to="/"
           style={{
             color: `white`,
             textDecoration: `none`,
           }}
-        >
-          {siteTitle}
-        </Link>
+        > */}
+        {siteTitle}
+        {/* </Link> */}
       </h1>
     </div>
   </header>

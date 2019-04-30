@@ -21,9 +21,4 @@ const IndexPage = () => {
   )
 }
 
-window.extAsyncInit = function() {
-  console.log("yayayay")
-  // the Messenger Extensions JS SDK is done loading
-}
-
 export default IndexPage

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Export2US`,
+    title: `Xport2US`,
     description: `Find out everything you need to know about exporting to the US.`,
-    author: `@export2US`,
+    author: `@Xport2US`,
   },
   plugins: [
     {
