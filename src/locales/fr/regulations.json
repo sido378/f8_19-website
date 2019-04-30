@@ -1,0 +1,41 @@
+{
+	"agency" : "Agence responsable",
+	"cheese" : {
+		"1" : "Fromages, lait et produits laitiers",
+		"2" : "FDA",
+		"2_url" : "https://help.cbp.gov/app/answers/detail/a_id/206/~/regulations-for-importing-dairy-products-for-commercial-use",
+		"3" : "La plupart des produits à base de fromage nécessitent une licence d'importation et sont soumis à un quota."
+	},
+	"fruits" : {
+		"1" : "Fruits, légumes et noix",
+		"2" : "FSIS of USDA",
+		"2_url" : "https://www.fsis.usda.gov/wps/portal/fsis/topics/international-affairs/importing-products",
+		"3" : "Ces produits nécessitent un certificat d'inspection."
+	},
+	"livestock" : {
+		"1" : "Bétail et Animaux",
+		"2" : "APHIS and the FDA",
+		"2_url" : "https://www.aphis.usda.gov/aphis/ourfocus/importexport",
+		"3" : "Un permis d'importation doit être obtenu auprès de l'APHIS avant d'être expédié du pays d'origine.",
+		"4" : "Toutes les importations d'animaux doivent être accompagnées d'un certificat sanitaire vétérinaire.",
+		"5" : "Toutes les importations sont soumises à l'inspection et à la quarantaine dans certains ports."
+	},
+	"meat" : {
+		"1" : "Viande, volaille et produits à base de viande ou de volaille",
+		"2" : "USDA and APHIS",
+		"2_url" : "https://www.fsis.usda.gov/wps/portal/fsis/topics/international-affairs/importing-products",
+		"3" : "D'autres produits sont soumis à la réglementation APHIS et aux dispositions de la loi fédérale sur les aliments, les médicaments et les cosmétiques (appliquée par la FDA)."
+	},
+	"plants" : {
+		"1" : "Plant and plant products",
+		"2" : "USDA and FDA",
+		"2_url" : "https://www.aphis.usda.gov/aphis/ourfocus/importexport",
+		"3" : "Un permis d'importation est requis pour les produits végétaux, les fruits, les légumes, les légumes, les semences et autres."
+	},
+	"seeds" : {
+		"1" : "Graines",
+		"2" : "AMS of USDA",
+		"2_url" : "https://www.ams.usda.gov/services/imports-exports",
+		"3" : "Les envois de semences sont retenus pour le tirage et l'analyse d'échantillons."
+	}
+}
