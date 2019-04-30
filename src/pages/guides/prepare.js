@@ -24,10 +24,20 @@ const Prepare = ({ intl }) => (
           </li>
         </ul>
       </li>
-      <li>
+       <li>
         <h2>{intl.formatMessage({ id: "prepare_2" })}</h2>
         <ul>
-          <li>{intl.formatMessage({ id: "prepare_1_1" })}</li>
+          <li>
+            {intl.formatMessage({ id: "prepare_2_1" })}
+            <ul>
+              <li>
+                <li>{intl.formatMessage({ id: "prepare_1_2_1" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_1_2_2" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_1_2_3" })}</li>
+                <li>{intl.formatMessage({ id: "prepare_1_2_4" })}</li>
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
       <li>
@@ -41,3 +51,4 @@ const Prepare = ({ intl }) => (
 )
 
 export default injectIntl(Prepare)
+ 
